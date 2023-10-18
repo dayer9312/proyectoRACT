@@ -1,10 +1,10 @@
 import "./Header.css"
 
 function Header(){
-    return 
+    return (
         <header className="header"> 
         <img src="/img/header.png" alt="ghost"></img>
         </header>
-    
+    )
 }
 export default Header
