@@ -1,18 +1,23 @@
 .texto{
     margin: 24px 0;
-    font-family: 'Indie Flower', sans-serif;
+    font-family: 'Indie Flower', cursive;
 
 }
 .texto label{
-    font-family: 'Indie Flower', sans-serif;
-    font-size: 18px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
     display: block;
     font-weight: 600;
     margin-bottom: 8px;
 
 }
 .texto input{
+    font-family: 'Indie Flower', cursive;
     width: 100%;
     background-color: #fff;
     box-shadow: 7px 7px 15px rgba(0, 0, 0, 25%);
+    border: none;
+    padding: 30px 20px;
+    font-size: 16;
+    border-radius: 20px;
 }
